@@ -7,6 +7,18 @@ in the backend, with PTO and overtime analytics served from ClickHouse.
 > succession and investigation records in `data/` are fictional (555 phone numbers,
 > "Example Avenue" addresses). No real person's data is included.
 
+## Watch the demo
+
+▶️ **[Watch the demo video](https://drive.google.com/file/d/1-cLKclYJyUilZCqgp5Dp9xmr5DUZ5p9I/view?usp=sharing)** (Google Drive)
+
+The video walks through the app using synthetic data only:
+
+- **Employee self-service:** an employee views and edits their own contact details and checks their PTO.
+- **Manager-scoped analytics:** a manager sees PTO and overtime dashboards for their direct reports only.
+- **Blocked unauthorized actions:** attempts to see or change other people's data, edit PTO, approve
+  another team's leave or export data are refused by the backend.
+- **Audit logging:** every allowed and denied attempt appears in the activity log.
+
 ## The problem
 
 HR data mixes information with very different sensitivity: an employee's own phone number,
