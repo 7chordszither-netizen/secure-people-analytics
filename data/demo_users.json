@@ -1,0 +1,119 @@
+[
+  {
+    "user_id": "U_EMP01",
+    "role": "employee",
+    "employee_id": "E001",
+    "scope_type": "self",
+    "scope_ids": [
+      "E001"
+    ]
+  },
+  {
+    "user_id": "U_EMP11",
+    "role": "employee",
+    "employee_id": "E011",
+    "scope_type": "self",
+    "scope_ids": [
+      "E011"
+    ]
+  },
+  {
+    "user_id": "M001",
+    "role": "manager",
+    "employee_id": null,
+    "scope_type": "direct_team",
+    "scope_ids": [
+      "E001",
+      "E002",
+      "E003",
+      "E004",
+      "E005",
+      "E006",
+      "E007",
+      "E008",
+      "E009",
+      "E010"
+    ]
+  },
+  {
+    "user_id": "M002",
+    "role": "manager",
+    "employee_id": null,
+    "scope_type": "direct_team",
+    "scope_ids": [
+      "E011",
+      "E012",
+      "E013",
+      "E014",
+      "E015",
+      "E016",
+      "E017",
+      "E018",
+      "E019",
+      "E020"
+    ]
+  },
+  {
+    "user_id": "P001",
+    "role": "payroll",
+    "employee_id": null,
+    "scope_type": "entity",
+    "scope_ids": [
+      "DemoOrg-US"
+    ]
+  },
+  {
+    "user_id": "H001",
+    "role": "hrbp",
+    "employee_id": null,
+    "scope_type": "department",
+    "scope_ids": [
+      "Operations"
+    ]
+  },
+  {
+    "user_id": "H002",
+    "role": "hrbp",
+    "employee_id": null,
+    "scope_type": "department",
+    "scope_ids": [
+      "Customer Success"
+    ]
+  },
+  {
+    "user_id": "R001",
+    "role": "employee_relations",
+    "employee_id": null,
+    "scope_type": "case",
+    "scope_ids": [
+      "CASE001"
+    ]
+  },
+  {
+    "user_id": "A001",
+    "role": "salary_approver",
+    "employee_id": null,
+    "scope_type": "entity",
+    "scope_ids": [
+      "DemoOrg-US"
+    ]
+  },
+  {
+    "user_id": "A002",
+    "role": "hr_change_approver",
+    "employee_id": null,
+    "scope_type": "department",
+    "scope_ids": [
+      "Operations"
+    ]
+  },
+  {
+    "user_id": "S001",
+    "role": "security_auditor",
+    "employee_id": null,
+    "scope_type": "audit",
+    "scope_ids": [
+      "DemoOrg-US"
+    ]
+  }
+]

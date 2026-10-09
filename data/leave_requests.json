@@ -1,0 +1,18 @@
+[
+  {
+    "request_id": "L001",
+    "employee_id": "E001",
+    "start_date": "2026-10-20",
+    "hours": 8,
+    "status": "pending",
+    "assigned_manager_id": "M001"
+  },
+  {
+    "request_id": "L002",
+    "employee_id": "E011",
+    "start_date": "2026-10-21",
+    "hours": 16,
+    "status": "pending",
+    "assigned_manager_id": "M002"
+  }
+]

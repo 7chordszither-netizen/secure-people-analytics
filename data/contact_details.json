@@ -1,0 +1,102 @@
+[
+  {
+    "employee_id": "E001",
+    "address": "100 Example Avenue, Demo City",
+    "phone": "+1-202-555-0100"
+  },
+  {
+    "employee_id": "E002",
+    "address": "101 Example Avenue, Demo City",
+    "phone": "+1-202-555-0101"
+  },
+  {
+    "employee_id": "E003",
+    "address": "102 Example Avenue, Demo City",
+    "phone": "+1-202-555-0102"
+  },
+  {
+    "employee_id": "E004",
+    "address": "103 Example Avenue, Demo City",
+    "phone": "+1-202-555-0103"
+  },
+  {
+    "employee_id": "E005",
+    "address": "104 Example Avenue, Demo City",
+    "phone": "+1-202-555-0104"
+  },
+  {
+    "employee_id": "E006",
+    "address": "105 Example Avenue, Demo City",
+    "phone": "+1-202-555-0105"
+  },
+  {
+    "employee_id": "E007",
+    "address": "106 Example Avenue, Demo City",
+    "phone": "+1-202-555-0106"
+  },
+  {
+    "employee_id": "E008",
+    "address": "107 Example Avenue, Demo City",
+    "phone": "+1-202-555-0107"
+  },
+  {
+    "employee_id": "E009",
+    "address": "108 Example Avenue, Demo City",
+    "phone": "+1-202-555-0108"
+  },
+  {
+    "employee_id": "E010",
+    "address": "109 Example Avenue, Demo City",
+    "phone": "+1-202-555-0109"
+  },
+  {
+    "employee_id": "E011",
+    "address": "110 Example Avenue, Demo City",
+    "phone": "+1-202-555-0110"
+  },
+  {
+    "employee_id": "E012",
+    "address": "111 Example Avenue, Demo City",
+    "phone": "+1-202-555-0111"
+  },
+  {
+    "employee_id": "E013",
+    "address": "112 Example Avenue, Demo City",
+    "phone": "+1-202-555-0112"
+  },
+  {
+    "employee_id": "E014",
+    "address": "113 Example Avenue, Demo City",
+    "phone": "+1-202-555-0113"
+  },
+  {
+    "employee_id": "E015",
+    "address": "114 Example Avenue, Demo City",
+    "phone": "+1-202-555-0114"
+  },
+  {
+    "employee_id": "E016",
+    "address": "115 Example Avenue, Demo City",
+    "phone": "+1-202-555-0115"
+  },
+  {
+    "employee_id": "E017",
+    "address": "116 Example Avenue, Demo City",
+    "phone": "+1-202-555-0116"
+  },
+  {
+    "employee_id": "E018",
+    "address": "117 Example Avenue, Demo City",
+    "phone": "+1-202-555-0117"
+  },
+  {
+    "employee_id": "E019",
+    "address": "118 Example Avenue, Demo City",
+    "phone": "+1-202-555-0118"
+  },
+  {
+    "employee_id": "E020",
+    "address": "119 Example Avenue, Demo City",
+    "phone": "+1-202-555-0119"
+  }
+]

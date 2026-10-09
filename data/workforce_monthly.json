@@ -1,0 +1,602 @@
+[
+  {
+    "employee_id": "E001",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 7,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E001",
+    "month": "2026-08",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 8,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E001",
+    "month": "2026-09",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 9,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E002",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 10,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E002",
+    "month": "2026-08",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 11,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E002",
+    "month": "2026-09",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 12,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E003",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 88,
+    "overtime_hours": 13,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E003",
+    "month": "2026-08",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 88,
+    "overtime_hours": 14,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E003",
+    "month": "2026-09",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 80,
+    "overtime_hours": 15,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E004",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 16,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E004",
+    "month": "2026-08",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 17,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E004",
+    "month": "2026-09",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 18,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E005",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 0,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E005",
+    "month": "2026-08",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 1,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E005",
+    "month": "2026-09",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 2,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E006",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 88,
+    "overtime_hours": 3,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E006",
+    "month": "2026-08",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 88,
+    "overtime_hours": 4,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E006",
+    "month": "2026-09",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 80,
+    "overtime_hours": 5,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E007",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 6,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E007",
+    "month": "2026-08",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 7,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E007",
+    "month": "2026-09",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 8,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E008",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 9,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E008",
+    "month": "2026-08",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 10,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E008",
+    "month": "2026-09",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 11,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E009",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 88,
+    "overtime_hours": 12,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E009",
+    "month": "2026-08",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 88,
+    "overtime_hours": 13,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E009",
+    "month": "2026-09",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 80,
+    "overtime_hours": 14,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E010",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 15,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E010",
+    "month": "2026-08",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 16,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E010",
+    "month": "2026-09",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 17,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E011",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 18,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E011",
+    "month": "2026-08",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 0,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E011",
+    "month": "2026-09",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 1,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E012",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 88,
+    "overtime_hours": 2,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E012",
+    "month": "2026-08",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 88,
+    "overtime_hours": 3,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E012",
+    "month": "2026-09",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 80,
+    "overtime_hours": 4,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E013",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 5,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E013",
+    "month": "2026-08",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 6,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E013",
+    "month": "2026-09",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 7,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E014",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 8,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E014",
+    "month": "2026-08",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 9,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E014",
+    "month": "2026-09",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 10,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E015",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 88,
+    "overtime_hours": 11,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E015",
+    "month": "2026-08",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 88,
+    "overtime_hours": 12,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E015",
+    "month": "2026-09",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 80,
+    "overtime_hours": 13,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E016",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 14,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E016",
+    "month": "2026-08",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 15,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E016",
+    "month": "2026-09",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 16,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E017",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 17,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E017",
+    "month": "2026-08",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 18,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E017",
+    "month": "2026-09",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 0,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E018",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 88,
+    "overtime_hours": 1,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E018",
+    "month": "2026-08",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 88,
+    "overtime_hours": 2,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E018",
+    "month": "2026-09",
+    "pto_opening_hours": 88,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 80,
+    "overtime_hours": 3,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E019",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 4,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E019",
+    "month": "2026-08",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 5,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E019",
+    "month": "2026-09",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 6,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E020",
+    "month": "2026-07",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 16,
+    "pto_closing_hours": 72,
+    "overtime_hours": 7,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E020",
+    "month": "2026-08",
+    "pto_opening_hours": 72,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 0,
+    "pto_closing_hours": 80,
+    "overtime_hours": 8,
+    "maintained_by": "system"
+  },
+  {
+    "employee_id": "E020",
+    "month": "2026-09",
+    "pto_opening_hours": 80,
+    "pto_accrued_hours": 8,
+    "pto_used_hours": 8,
+    "pto_closing_hours": 80,
+    "overtime_hours": 9,
+    "maintained_by": "system"
+  }
+]

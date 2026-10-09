@@ -1,0 +1,4 @@
+streamlit>=1.40
+pandas
+pytest
+clickhouse-connect>=0.8

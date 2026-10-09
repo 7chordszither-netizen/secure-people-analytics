@@ -1,0 +1,24 @@
+[
+  {
+    "request_id": "C001",
+    "requester_id": "P001",
+    "employee_id": "E001",
+    "field": "annual_salary_usd",
+    "old_value": 60000,
+    "proposed_value": 63000,
+    "status": "pending",
+    "required_approver_role": "salary_approver",
+    "approval_id": null
+  },
+  {
+    "request_id": "C002",
+    "requester_id": "H001",
+    "employee_id": "E002",
+    "field": "job_title",
+    "old_value": "Associate",
+    "proposed_value": "Senior Associate",
+    "status": "pending",
+    "required_approver_role": "hr_change_approver",
+    "approval_id": null
+  }
+]

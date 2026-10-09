@@ -1,0 +1,102 @@
+[
+  {
+    "employee_id": "E001",
+    "annual_salary_usd": 60000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E002",
+    "annual_salary_usd": 62500,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E003",
+    "annual_salary_usd": 65000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E004",
+    "annual_salary_usd": 67500,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E005",
+    "annual_salary_usd": 70000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E006",
+    "annual_salary_usd": 72500,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E007",
+    "annual_salary_usd": 75000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E008",
+    "annual_salary_usd": 77500,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E009",
+    "annual_salary_usd": 80000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E010",
+    "annual_salary_usd": 82500,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E011",
+    "annual_salary_usd": 85000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E012",
+    "annual_salary_usd": 87500,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E013",
+    "annual_salary_usd": 90000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E014",
+    "annual_salary_usd": 92500,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E015",
+    "annual_salary_usd": 95000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E016",
+    "annual_salary_usd": 97500,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E017",
+    "annual_salary_usd": 100000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E018",
+    "annual_salary_usd": 102500,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E019",
+    "annual_salary_usd": 105000,
+    "effective_date": "2026-01-01"
+  },
+  {
+    "employee_id": "E020",
+    "annual_salary_usd": 107500,
+    "effective_date": "2026-01-01"
+  }
+]

@@ -1,0 +1,23 @@
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local runtime state: created from data/ seeds on first run; holds audit logs and edits
+runtime/
+
+# Environments, caches, logs, recordings
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+*.log
+*.mov
+*.mp4
+*.gif
+*.png
+.DS_Store

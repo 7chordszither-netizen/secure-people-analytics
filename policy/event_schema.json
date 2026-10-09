@@ -1,0 +1,35 @@
+{
+  "access_event_required": [
+    "event_id",
+    "timestamp_utc",
+    "request_id",
+    "actor_id",
+    "verified_role",
+    "action",
+    "target_resource",
+    "field_names",
+    "scope",
+    "decision",
+    "reason_code",
+    "execution_outcome"
+  ],
+  "change_history_required": [
+    "change_id",
+    "request_id",
+    "actor_id",
+    "executor",
+    "approver_id",
+    "approval_id",
+    "target_employee_id",
+    "field",
+    "before_value",
+    "after_value",
+    "timestamp_utc",
+    "outcome"
+  ],
+  "notes": [
+    "Access events exclude field values, raw prompts and sensitive document contents.",
+    "Restricted change history stores before/after values.",
+    "Allowed policy decision does not prove operation succeeded."
+  ]
+}

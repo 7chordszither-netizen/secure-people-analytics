@@ -1,0 +1,115 @@
+{
+  "default": "deny",
+  "rules": [
+    {
+      "role": "employee",
+      "scope": "self",
+      "resource": "contact",
+      "actions": [
+        "view",
+        "edit"
+      ],
+      "approval": "none"
+    },
+    {
+      "role": "employee",
+      "scope": "self",
+      "resource": "pto",
+      "actions": [
+        "view"
+      ],
+      "approval": "none"
+    },
+    {
+      "role": "manager",
+      "scope": "direct_team",
+      "resource": "pto,overtime",
+      "actions": [
+        "view"
+      ],
+      "approval": "none"
+    },
+    {
+      "role": "manager",
+      "scope": "direct_team_assigned_request",
+      "resource": "leave_request",
+      "actions": [
+        "approve",
+        "deny"
+      ],
+      "approval": "none"
+    },
+    {
+      "role": "payroll",
+      "scope": "assigned_entity",
+      "resource": "compensation",
+      "actions": [
+        "view",
+        "request_change"
+      ],
+      "approval": "independent_salary_approver"
+    },
+    {
+      "role": "hrbp",
+      "scope": "assigned_department",
+      "resource": "workforce,job_title",
+      "actions": [
+        "view",
+        "request_change"
+      ],
+      "approval": "independent_hr_change_approver"
+    },
+    {
+      "role": "employee_relations",
+      "scope": "assigned_case",
+      "resource": "investigation",
+      "actions": [
+        "view",
+        "edit"
+      ],
+      "approval": "none"
+    },
+    {
+      "role": "salary_approver",
+      "scope": "assigned_entity",
+      "resource": "salary_change_request",
+      "actions": [
+        "approve",
+        "deny"
+      ],
+      "approval": "not_requester"
+    },
+    {
+      "role": "hr_change_approver",
+      "scope": "assigned_department",
+      "resource": "hr_change_request",
+      "actions": [
+        "approve",
+        "deny"
+      ],
+      "approval": "not_requester"
+    },
+    {
+      "role": "security_auditor",
+      "scope": "assigned_audit_scope",
+      "resource": "redacted_access_events",
+      "actions": [
+        "view"
+      ],
+      "approval": "none"
+    }
+  ],
+  "global_rules": [
+    "No external sharing or exports",
+    "No sharing action enabled in v1; internal sharing remains undefined and denied",
+    "Requester cannot approve own request",
+    "Approval bound to request version, target, field and proposed value; changed request invalidates approval",
+    "Execute approved changes once; retain restricted before/after history",
+    "System alone maintains PTO; approval triggers system recalculation, not a direct balance edit",
+    "Identity and scope come from server session, never model or user input",
+    "Model may select allowlisted operations; never unrestricted SQL",
+    "Payroll cannot edit leave or view succession or investigations",
+    "Succession access remains undefined and denied for every demo role",
+    "Log all attempted operations; audit logging failure blocks mutations"
+  ]
+}
