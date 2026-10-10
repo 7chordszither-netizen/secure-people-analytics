@@ -9,7 +9,11 @@ in the backend, with PTO and overtime analytics served from ClickHouse.
 
 ## Watch the demo
 
-▶️ **[Watch the demo video](https://drive.google.com/file/d/1-cLKclYJyUilZCqgp5Dp9xmr5DUZ5p9I/view?usp=sharing)** (Google Drive)
+▶️ **[Watch the demo video](https://drive.google.com/file/d/1-cLKclYJyUilZCqgp5Dp9xmr5DUZ5p9I/view?usp=sharing)** (Google Drive) 
+
+## Run locally
+After starting the app on your computer, open:
+[Open the local app](http://localhost:8501/)
 
 The video walks through the app using synthetic data only:
 
